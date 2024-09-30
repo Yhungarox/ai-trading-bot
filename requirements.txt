@@ -3,5 +3,5 @@ pandas
 scikit-learn
 tensorflow
 websockets
-orderly-network-sdk
-empyreal-sdk
+orderly-sdk
+empyrealSDK
